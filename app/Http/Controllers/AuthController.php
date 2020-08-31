@@ -12,7 +12,7 @@ class AuthController extends BaseController
         return
         [
             "Nis" => "3103118053",
-            "Name" => "Eldira Kharisma ",
+            "Name" => "Eldira Kharisma a",
             "Gender" => "Perempuan",
             "Phone" => "085726337681",
             "Kelas" => "XII RPL 2",
